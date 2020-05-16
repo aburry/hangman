@@ -543,7 +543,7 @@ dictionary =
     , "play"
     , "please"
     , "pleasure"
-    , "ploughplow"
+    , "plow"
     , "pocket"
     , "point"
     , "poison"
