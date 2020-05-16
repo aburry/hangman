@@ -1,6 +1,9 @@
 module Dictionary exposing (dictionary)
 
 
+-- Charles Kay Ogden's Basic English word list.
+
+
 dictionary =
     [ "I"
     , "a"
